@@ -1,0 +1,40 @@
+.vscode
+node_modules
+public
+src
+.prettierignore
+.browserlistrc
+.eslintrc.js
+babel.config.js
+jsconfig.json
+package.json
+package-lock.json
+postcss.config.js
+themeConfig.js
+vue.config.js
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode/*
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+!.vscode/*.code-snippets
+
+# script
+/vuexy-scripts
+
+# Docs
+/docs/.temp
